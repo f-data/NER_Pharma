@@ -10,7 +10,7 @@ from nltk.corpus import words
 import nltk
 import itertools
 from abc import ABC, abstractmethod
-from external.ner_to_spacy import SpaCyTagger
+from .external.ner_to_spacy import SpaCyTagger
 
 class NERAutoTagger(ABC):
     """
