@@ -1,0 +1,9 @@
+A national artificial intelligence (AI) lab with a £250m budget is being established in the NHS with the aim of making the UK a world leader in AI and genomic medicine.
+The lab will be hosted by NHSX — the joint government, industry and NHS unit set up to deliver digitalisation across the health service — and the Accelerated Access Collaborative, which fast tracks innovative medicines into the NHS.
+The lab will bring together academics, specialists and industry to develop AI to deliver benefits for patients, such as quicker access to test results; the development of prescriptive models to estimate future healthcare needs; and the ability to identify people most at risk from disease.
+Simon Stevens, chief executive of the NHS England, said that “carefully targeted” AI was now ready for practical application in the NHS.
+“In the first instance, it should help personalise NHS screening and treatments for cancer, eye disease and a range of other conditions, as well as freeing up staff time… Our new NHS AI Lab will ensure the benefits of NHS data and innovation are fully harnessed for patients in this country,” he said.
+The lab was given a cautious welcome by NHS watchers.
+Adam Steventon, director of data analytics at the Health Foundation, said: “Technology needs to be driven by patient need and not just for technology’s sake.
+Technology offers great promise for the future, but in the present the NHS faces real challenges that need to be addressed.”
+Matthew Honeyman, a researcher at the King’s Fund, commented: “Rolling out new technologies like AI will require standards to ensure patient safety, a workforce equipped with digital skills, and an upgrade to outdated basic NHS tech infrastructure.”

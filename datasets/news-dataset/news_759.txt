@@ -1,0 +1,11 @@
+Exclusive: Pharmacists at two pharmacies in the north of England have begun using iPads to look at summary care records.
+Source: Shutterstock.com Pharmacists have begun using iPads to access patient records, with the aim of improving interaction with patients
+Staff at two Weldricks pharmacies in the north of England have started using iPads to access the summary care record (SCR) in an effort to improve interaction with patients.
+The pharmacies, which are located in South Yorkshire and North Lincolnshire, are using the iPads to authenticate their access to the SCR instead of smartcards.
+The smartcard — a physical card issued by the NHS — is currently used by pharmacists along with a passcode to access the NHS Spine and national or local health record systems.
+In a statement issued on 31 July 2019, NHS Digital said the iPad access to the SCR — called SCRa Mobile — “is not yet available for wider rollout, but has gone live this week in Weldricks at two sites where iPads are being used to improve interaction with patients and answer queries”.
+Speaking to The Pharmaceutical Journal on the use of iPads in pharmacies to access the SCR, Richard Ashcroft, director of digital medicines at NHS Digital, said the pharmacies are “using a tablet device as an alternative to a smart card”.
+“Right now, community pharmacies use smart cards to access national services,” he said. “But we also recognise that like with most technologies, there might be easier ways of authenticating to use national services.”
+“We believe that if you can bring the clinician closer to the patient physically within the pharmacy, by having their patient medication record or summary care records as an example, on a tablet, then that is probably a better quality service and that starts to improve that patient’s experience,” he explained.
+However, he added that the pilot is “not a mass roll out at this stage”, with NHS Digital expecting to learn “what the benefits are” for a wider roll out to community pharmacy after the pilot.
+The Pharmaceutical Journal previously revealed plans for pharmacists to access the SCR using iPads as part of a scheme that was already running in the London Ambulance Service.

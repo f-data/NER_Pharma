@@ -1,0 +1,13 @@
+Study results show that patients given USB sticks containing their electronic medicine records were subject to fewer medicine errors following hospital discharge compared with patients who received a handwritten discharge prescription.
+Giving patients a USB device containing electronic medicine records at hospital discharge could help prevent medicine errors as they move between hospital and the community, a study published in the British Journal of General Practice (23 April 2019) has found.
+Researchers carried out a study comprising 102 patients aged 60 years or above in the five general medical and surgical wards of a 350-bed hospital and general practices in County Cork, Ireland, between January 2016 and July 2016.
+Some of the patients were issued with a ‘Patient-Held Active Record of Medication Status’ (PHARMS) USB device, while the rest received usual care in the form of a handwritten discharge prescription.
+The researchers collected data for all patients detailing their pre-admission and hospital discharge medicine information; age; length of hospital stay; the number of medicines they were taking on admission; and independence in terms of continence, mobility, feeding and dressing.
+They also examined each patient’s discharge prescriptions for errors and patients’ GPs informed them if any errors posing clinical risk were detected.
+In addition, the researchers carried out interviews with patients, junior doctors in the hospital, GPs and IT professionals, and directly observed the implementation process.
+Overall, the results showed that the total number of medicine errors was lower in the intervention group than in the control group (median 1, interquartile range [IQR] 0–3 vs. median 8, IQR 4–13.5, P<0.001), as was the clinical significance score.
+The researchers also discovered that there was a complete absence of errors pertaining to patient information, date, legibility, quantity and prescriber information among the intervention group.
+Through the interviews they found out that the PHARMS device was considered to be technically implementable using the existing IT systems, as well as clinically feasible and acceptable.
+“Establishing effective methods of reducing medication error as patients move between hospital and the community is currently an international priority,” the authors of the study said.
+“This device may offer a potential solution to the challenges of medication reconciliation at the primary–secondary care interface using existing IT infrastructure.”
+They added that a larger scale evaluation of the device, including deployment at the point of hospital admission, was now warranted.

@@ -1,0 +1,16 @@
+Exclusive: Boots wants to allow patients to see how much stock of a medicine it has at a given branch before ordering repeat prescriptions.
+Source: Shutterstock.com New software being implemented at Boots could allow patients to see whether a branch has medicine in stock before ordering their repeat prescriptions
+Boots is aiming to use its patient medication record (PMR) system to allow patients, and eventually GPs, to see the multiple’s stock of medicine in each of its pharmacies before ordering repeat prescriptions.
+Talking to The Pharmaceutical Journal, Stephen Watkins, director of items at Boots and who is also heading up the multiple’s digital transformation, said the system — known as Columbus — will be rolled out to 1,000 pharmacies by the end of August 2019.
+Columbus will create a centralised medication record of Boots’s patients, as well as a centralised inventory of medicine stock. Watkins said he hopes that patients will be able to see stock levels when they order medicines through the pharmacy’s app.
+Boots launched its online repeat prescription service on 24 May 2019, which it said would link to a patient’s GP record from July 2019.
+The pharmacy chain purchased the health technology company Wiggly-Amps to develop the GP linking system in January 2019.
+Watkins said the pharmacy’s “GP link functionality” was being tested with a GP in Norfolk, and would allow patients “to see the mirror image of their patient medication record” on the app and order repeat medication directly from the record. The order would then be put straight into the GP’s workflow to approve.
+“That will help to speed up the journey from a patient perspective, but also from a pharmacy perspective as well,” he said.
+“We also believe it will help from an efficiency perspective with GPs.”
+He added that when patients order their medication, he envisions the app being able to inform the patient how much of their medicine they have in stock “at the point where they’re looking to order it”.
+Columbus is already in place in 600 stores and will provide “a central view of the patient” and “a central view of stock”, he said, adding that he aims to give GPs access to stock numbers as well.
+“I’d love to be able to open that up to GPs so that GPs can have that visibility to say: ‘I’ll prescribe this and the store in Covent Garden has that in stock — you can go and get it and the wait time is five to ten minutes’,” he said.
+He continued: “We’re not there yet. But that’s definitely where I see the future of that convenience and accessibility coming out.”
+When asked to clarify whether it was expected that GPs would be directing patients to Boots pharmacies, a spokesperson for Boots said: “We are not suggesting that GPs should direct patients to our stores, as every patient has the right to choose which pharmacy to obtain their medicines and pharmaceutical care from.”
+Watkins also said the Boots app could eventually allow patients “to book a GP appointment through the app”, and provide “more of an order management system” so that patients can track their prescription after ordering.

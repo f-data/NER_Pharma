@@ -1,0 +1,10 @@
+Alexa, the voice-based virtual assistant used by Amazon’s Echo devices, will soon be able to provide users NHS-verified healthcare information.
+Source: Shutterstock.com Amazon will take information from the NHS website to help Alexa answer healthcare questions
+The NHS has partnered with Amazon to its use voice-assisted technology, Alexa, to provide healthcare information from the NHS website.
+The Department of Health and Social Care (DHSC) says the technology will allow patients, including older people and people with visual impairment, to receive NHS-verified health information by way of simple voice commands.
+Alexa will use information from the NHS website to answer questions such as: “What are the symptoms of flu?”
+It is hoped that the use of such technology will further reduce pressure on GPs by providing information for common illnesses.
+Matt Hancock, secretary of health and social care, said: “We want to empower every patient to take better control of their healthcare and technology like this is a great example of how people can access reliable, world-leading NHS advice from the comfort of their home, reducing the pressure on our hardworking GPs and pharmacists.
+Matthew Gould, chief executive of the newly-launched NHSX, which has been created to improve digital development across the DHSC and NHS England, said: “By working closely with Amazon and other tech companies … we can ensure that the millions of users looking for health information every day can get simple, validated advice at the touch of a button or voice command.”
+Helen Stokes-Lampard, chair of the Royal College of GPs, described the idea as “interesting”, but said independent research needed to be done to ensure that the advice given is safe and that the new technology does not make access to care harder for vulnerable patients.
+“We must be careful not to create a ‘digital divide’ between those patients who can afford it and are able to use it, and those who can’t,” she said.

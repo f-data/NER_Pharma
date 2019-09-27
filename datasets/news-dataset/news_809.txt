@@ -1,0 +1,12 @@
+Exclusive: 40% of GP practices will have the correct IT systems to receive information from pharmacists on patients who have had their flu vaccination at pharmacies during the 2019/2020 winter flu season.
+Source: Shutterstock.com While 10,500 pharmacies will be able to send digital messages on the flu vaccinations they have administered, it will depend on the GP IT system used by the practice as to whether the GP practice will be able to receive the data
+Four in ten GP practices are expected to be able to receive updates on patients who have their flu vaccination at pharmacies this autumn, NHS Digital has said.
+In January 2019, NHS Digital confirmed that pharmacists would be able to share data on patients’ flu vaccinations with GPs in time for the 2019/2020 winter flu season, using NHS Digital’s new data sharing standards.
+But NHS Digital has since said in a statement to The Pharmaceutical Journal that while 10,500 pharmacies will be able to send the digital messages, it will depend on the GP IT system used by the practice as to whether the GP will be able to receive the data.
+NHS Digital said it expected only 40% of GP practices to be able to receive digital data transfers by the autumn.
+In 2018/2019, pharmacies delivered 1,270,489 flu vaccinations — 71,221 more vaccinations than the year before — during the winter flu season, which ran from 1 September 2018 and ended on 31 March 2019.
+Richard Ashcroft, programme director for digital medicines at NHS Digital, said the data transfer capabilities are a “starter for getting rid of the paper, fax, and phone dependency” but explained that the transfer will not see pharmacists writing on patient records directly.
+Instead, he said pharmacists will be “digitally transferring it into the GP workflow, with an ambition of transferring it into the GP record at a point in time in the future”.
+He added that two pharmacy systems have developed data transfer capabilities, while one GP IT system is “well on track to developing their end of that supply chain, such that it will be in a position before the winter flu season of this year to start to digitally transfer” flu vaccination data.
+Further systems offering data transfer capabilities are dependant “on when the suppliers can deliver the changes that they need to do and what we have to respect is the fact that all suppliers have got roadmaps that aren’t just about the things that I want them to do”, he said.
+NHS Digital expects to “have real clarity” by September 2019 on when the other GP IT systems will follow, Ashcroft said.

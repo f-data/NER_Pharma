@@ -1,0 +1,14 @@
+Researchers found that use of an electronic web-based transfer of care initiative reduced hospital emergency readmission rates in older patients.
+Source: Shutterstock.com Fewer older people using a compliance aid were readmitted into hospital after hospital discharge information was shared with community pharmacies, a study has found
+The number of hospital readmissions among older people using a compliance aid were reduced by hospital discharge information being shared with community pharmacies, a study has found.
+The aim of the study, published in the International Journal of Clinical Pharmacy (7 August 2019), was to evaluate whether PharmOutcomes software ‘Connect with Pharmacy’ (CwP) — an electronic web-based transfer of care initiative that allows the sharing of discharge information between the hospital and a patient’s chosen community pharmacy — reduced hospital readmission rates in older patients.
+The researchers also looked at whether the intervention had any effect on the length of stay of those who were admitted after a CwP referral.
+The first phase of the CwP initiative focused on patients who were using a compliance aid.
+The researchers retrospectively gathered information from 627 patients who were referred from Leeds Teaching Hospitals NHS Trust to community pharmacy via CwP between 16 January 2017 and 16 April 2017.
+Six months post-intervention, they found that emergency readmission rates reduced by 16.16% relative to baseline.
+Although there was no reduction in total length of stay, further analysis revealed that the intervention may reduce the number of days spent in hospital when the patient was there for more than three days.
+The researchers pointed out that “individuals with complex care needs frequently require care in different settings and are particularly vulnerable to experiencing medication problems at each care transition”.
+“Our next step would be to assess whether a follow up — and what type (such as medication review, provision of advice, medication reconciliation) — in such a population by the community pharmacist has a significant impact on readmissions,” they added.
+The CwP service is currently operating at Leeds Teaching Hospitals Trust, Calderdale and Huddersfield Foundation Trust and Bradford Royal Infirmary, with plans to extend the scheme to Leeds and York Partnership Foundation Trust and Airedale General Hospital.
+There are currently plans to introduce the Transfer of Care Around Medicines (TCAM) scheme in 50% of trusts in England by the end of 2020. It helps to identify patients in hospital who need extra support with their medicines and enables referrals to local community pharmacies for advice.
+In the same way as the CwP service, the TCAM scheme has been shown to reduce the likelihood of patients being readmitted to hospital.

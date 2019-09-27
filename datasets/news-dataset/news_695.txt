@@ -1,0 +1,12 @@
+Single-click access to patients’ summary care records in more than 3,000 pharmacies in England aims to improve healthcare by simplifying the task for pharmacists.
+Source: Shutterstock.com Pharmacists in 3,300 community pharmacies across England now have one-click access to patients’ summary care records through functionality that is being dubbed ‘SCR 1-click’
+More than 3,000 community pharmacies in England can now access their patients’ summary care records (SCRs) through a new one-click function.
+NHS Digital said that the ‘SCR 1-click’ function, which was officially launched on 18 June 2019, allows pharmacists logged in on their smartcard to click straight through to a selected patient’s SCR without having to log in separately and complete a manual search.
+The new functionality is live across 3,300 Sonar and Pinnacle advanced services systems.
+Tahmina Rokib, clinical lead for digital medicines and pharmacy at NHS Digital, said: “SCR 1-click will allow pharmacists quicker access to critical information when carrying out community pharmacy advanced services.
+“This is a great first step to integrating core clinical tools into systems to make things more efficient for busy healthcare professionals.”
+Kevin Noble, managing partner at Pinnacle Health — which provides PharmOutcomes — told The Pharmaceutical Journal that the service had been “live for more than a month”.
+“One of the restrictions at the moment is that NHS Digital has said that this can only be made live in services that are commissioned in community pharmacies,” he said, adding that SCR 1-click access was initially made available from the on-screen forms used for the NHS Urgent Medicines Supply Service.
+Noble explained that this access can be made available in any on-screen form in community pharmacy “that captures patient name, gender, and date of birth … so it will be really useful for pharmacists as part of any locally commissioned service because they’ll be able to get all of the information for patients, with their consent, themselves, on the summary care record [with one click]”.
+Availability of SCR 1-click is dependent on the commissioner and the service being provided.
+NHS Digital said it was unable to provide usage figures owing to the recency of the service’s launch.

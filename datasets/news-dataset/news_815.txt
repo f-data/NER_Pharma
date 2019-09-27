@@ -1,0 +1,16 @@
+Pharmacy2U, which dispenses more than 430,000 prescription items per month, says it only accesses the summary care record when “it is clinically necessary”.
+Source: Pharmacy2U NHS Digital data reveals that Pharmacy2U accessed the summary care record 31 times, compared with prescription app Now Pharmacy accessing it more than 19,000 times
+Industry-leading online pharmacy, Pharmacy2U, has accessed patients’ summary care records (SCR) just 31 times over the past year, according to NHS Digital data on SCR use in pharmacies across England.
+The data, published on 25 June 2019, also revealed that 304 community pharmacies did not access the SCR at all during the 52 weeks between 25 June 2018 and 17 June 2019.
+The statistics show an increase in SCR use over the past eight months, after it was reported in October 2018 that 85% of community pharmacies do not access the summary care record (SCR) at all over a typical week.
+The data reveal that three pharmacies, all of which operate online, checked the record more than 10,000 times during the year, with repeat prescription app Now Pharmacy accessing the SCR the most, around 19,469 times.
+Pilltime and Rxlive Limited checked the SCR 13,383 times and 10,043 times, respectively.
+However, Pharmacy2U, which The Pharmaceutical Journal revealed dispenses more than 430,000 prescription items per month, making it the biggest UK online dispenser, only accessed the SCR 31 times over the course of the year.
+A spokesperson for Pharmacy2U said the company accesses the SCR “in situations where we decide that it is clinically necessary for us to do so”, with patient consent.
+“The majority of our prescriptions are regular repeat prescriptions and SCR access has only been considered clinically necessary for our patient base within this time frame in the volumes reported,” they said, adding that other pharmacies may access the SCR “to download patients’ repeat lists or resolve data mismatches upon electronic prescription service nomination for example”.
+“However, we have other methods that we use to accomplish these tasks without SCR access. It is also useful for managing emergency supplies and eligibility for services such as flu jabs, however we do not provide these,” the spokesperson added.
+Jamie Urquhart, superintendent pharmacist at Now Healthcare, which runs Now Pharmacy, said using the “the SCR system gives us that first rate knowledge and peace of mind before dispensing medication”.
+“As a digital pharmacy, we are continually taking on new patients, so it is of paramount importance to our team here at Now Healthcare Group that we have up-to-date information on all our patients to alleviate any errors when it comes to dispensing medication,” he added.
+“The NHS have said how important it is for pharmacists (including online/digital) to be able to access the SCR on a regular basis.”
+A spokesperson for NHS Digital said it does not have a set target for SCR use but “there is a wide programme of activity to encourage teams to utilise SCR as and when needed”.
+They added that one-click access to the SCR “should lead to an increase in SCRs viewed and we are working with system suppliers to communicate with pharmacies and help them to understand the benefits of one-click to their business and their patients”.

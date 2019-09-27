@@ -1,0 +1,7 @@
+Portsmouth clinical commissioning group (CCG) has become the first CCG in the country in which all GP practices are able to send electronic prescriptions that can be processed by any pharmacy, NHS Digital has said.
+Phase four of the electronic prescription service (EPS) scheme, under which patients are handed a barcoded prescription — or ‘token’ — to give to the pharmacist, was initially piloted in four GP surgeries in November 2018.
+Implementing the system across an entire CCG is the latest step in a rollout that is expected to expand across England over the next year.
+NHS Digital has said that once the system is in place across England, it could save the NHS £130m per year while providing a faster and more secure way of dispensing medicines.
+Phase four will replace the third phase of the EPS, under which patients had to nominate a pharmacy in order for their prescription to be processed electronically. Instead, barcodes on paper prescriptions now enable any pharmacist to download the information from NHS Spine.
+Simon Cooper, director of medicines optimisation at Portsmouth CCG, said implementing the system has meant “greater efficiency for our GP practices and dispensing pharmacies in terms of time and accuracy, and this can only be positive for patients”.
+He added: “It’s also helping to create a much more accurate picture for us in terms of assessing prescribing data, which we can now do more quickly and with a greater degree of confidence in the information we are reviewing.”

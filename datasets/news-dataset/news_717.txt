@@ -1,0 +1,15 @@
+Errors were only prevented in 3.4% of cases when paediatric pharmacists at 15 NHS hospitals simulated 49 erroneous prescribing scenarios using electronic prescribing systems.
+Source: Shutterstock.com The researchers tested the effectiveness of current NHS electronic prescribing systems to prevent a standardised set of paediatric prescribing errors
+Electronic prescribing systems in England do not prevent the majority of harmful prescribing errors from occurring in the hospital paediatric setting, study results published in The BMJ show (7 June 2019).
+The researchers aimed to test the effectiveness of current NHS electronic prescribing systems to prevent a standardised set of paediatric prescribing errors which, by consensus, were likely to cause harm if they were to reach the patient.
+To do this, they sent out a semi-structured survey to all hospitals in England where paediatric prescribing was being undertaken using electronic prescribing systems.
+The paediatric pharmacists at 22 NHS hospital sites were asked to simulate 49 erroneous prescribing scenarios derived from previously published indicators, such as prescribing the wrong dose or prescribing a medicine to someone with a known allergy to that medicine. The researchers then recorded the number and type of these problematic orders that went on to be prescribed, and the level of clinical decision support provided by the system.
+Of the 22 sites who were sent the survey, 15 responded. The participating sites used a total of seven different electronic prescribing systems to carry out the simulated prescribing scenarios. None of the systems used had been designed specifically for paediatric prescribing.
+Overall, the results show that levels of clinical decision support and warnings issued to prescribers varied considerably, both between different electronic prescribing systems and between sites using the same system.
+Errors were prevented in just 3.4% of cases and, in 74.0% of cases, the prescriber did not receive any warning at all when prescribing the error.
+The results also showed that none of the systems prevented or provided a warning for every single erroneous order.
+Clinical decision support was available in all systems being tested, with some form of clinical decision support triggered in 25.8% of the error simulations to provide a warning to the prescriber.
+Allergy, medicine name, drug–drug interactions and therapeutic duplications were the most common error types where clinical decision support was provided.
+The researchers said their findings indicated that the electronic prescribing system alone could not be relied on for this group of potential errors.
+They added that system administrators are needed to find a balance between electronic prescribing systems issuing useful, meaningful alerts with presenting too many to the user and risking alert fatigue.
+“The erroneous orders used in this study could, in addition to longitudinal data collection within a single site, be used as a quality improvement tool for reporting the effect of changes or upgrades of an electronic prescribing system,” they said.

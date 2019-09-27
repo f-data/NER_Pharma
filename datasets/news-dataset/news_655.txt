@@ -1,0 +1,13 @@
+After implementation of electronic prescribing and medication administration, pharmacists in hospitals appeared to spend less time with patients and took longer to complete some tasks.
+Source: Shutterstock.com Following implementation of electronic prescribing and medication administration, ward pharmacists spent most of their time on professional communication, screening inpatient medication and screening discharge medication
+Hospital electronic prescribing and medication administration (ePA) may be linked with an overall increase in medication errors, a study published in BMC Health Services Research on 12 March 2019 has found.
+Pharmacists also appeared to spend less time with patients after ePA implementation and some tasks took them longer to carry out.
+The study comprised quantitative direct observations of ward pharmacists in an acute hospital in England, before and after implementation of ePA, to find out the proportion of time that ward pharmacists spent on different tasks, with whom and where.
+The observations were followed by interviews with the pharmacists to find out their perceived impact of ePA on ward activities, interactions with patients and healthcare professionals, where tasks were carried out and medication errors.
+Overall, it was found that the implementation of ePA had several effects on ward pharmacists’ activities.
+Some routine tasks took longer, while others took less time after implementation of ePA, with most time being spent on professional communication, screening inpatient medication and screening discharge medication.
+The amount of pharmacists’ time spent interacting with patients was also found to reduce after implementing ePA, from 5% to 2%.
+During the interviews, pharmacists appeared to perceive several valuable safety features with ePA, for example, reports that each prescription is always clear and complete with medication order details, the name and the pager number of the prescriber.
+However, there was a “prevalent belief” that ePA also increased the incidence of medication errors, both minor and severe.
+The interviews suggested that the perceived increase in errors was owing to six types of situation, including the ePA nudging users to do the ‘wrong’ thing and making errors less visible compared with a paper drug chart. The authors said the situations could be improved with enhanced user training and, in some cases, a system redesign.
+The team concluded that the pharmacy staff had demonstrated a “degree of resilience” to ensure ‘business as usual’ by enhancing and adapting their role.
