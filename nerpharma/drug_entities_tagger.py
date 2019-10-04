@@ -15,13 +15,7 @@ class DrugEntitiesTagger(NERAutoTagger):
     def _is_detected_word_an_entity(self, word):
         is_pc = False
         for drug in self.all_entities:
-            if (word[0].isupper() and not word[1].isupper() and textdistance.cosine.normalized_similarity(drug.lower(), word.lower()) > 0.9):
-                is_pc = True
-                break
-            if (word[0].isupper() and not word[1].isupper() and textdistance.cosine.normalized_similarity(drug.lower(), word.lower()) > 0.5 and drug.lower().find(word.lower()) >= 0):
-                is_pc = True
-                break
-            if(word[0].isupper() and word.title() in self.task_specific_keywords):
+            if(word == drug):
                 is_pc = True
                 break
         return is_pc
